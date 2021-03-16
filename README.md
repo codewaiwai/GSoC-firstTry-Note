@@ -1,6 +1,6 @@
 # GSoC-firstTry-Note
 
-笔记起于GSoC2020，因为没有事先Pull requests导致失去了竞争力
+笔记起于GSoC2020，因为提交Pull requests时忘记提醒mentor审查，导致失去了竞争力
 
 阅读Casbin，JCasbin源码时的笔记，因为对go语言还不太熟悉，几乎是硬着头皮看完Casbin的
 
